@@ -1,0 +1,7 @@
+Project1 of Algorithm
+
+Create an address book that can provide search functionality on multiple fields, with a large number of records.
+The structure is very simple – first name, last name, phone number and city name. You can search on ANY of these fields, and can search partially using “begins with” syntax. For example, you can search for – first name starts with “Ron…”.
+Another search can be – phone number starts with “202…”.
+
+Project is created by python,rewriting search function of BST, insert and create function are same as original once though.
